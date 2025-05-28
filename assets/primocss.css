@@ -1,0 +1,38 @@
+.container {
+  margin: auto;
+  width: 500px;
+}
+h4 {
+  background-color: rgb(248, 234, 215);
+  font-family: sans-serif;
+  color: rgba(37, 87, 94, 0.849); padding-bottom: 10px;
+  padding-top: 10px; width: 100%; text-align: center;
+}
+body´ {
+  font-family: sans-serif;
+}
+
+#focaccia-ref {
+  color: rgb(100, 100, 100);
+  width: 1300px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#logo { 
+    height: 80px;
+    width: 250px;
+    
+}
+ #link 
+{
+    color: rgb(247, 31, 31);
+}
+ div {
+    padding-left: 2px; 
+ }
